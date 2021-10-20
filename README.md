@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @daur-vip
+- 👋 Hi, I’m Daur! I am from Kazakhstan (a part of former USSR).
 - 👀 I’m interested in Laravel, Vue.JS, Android development (Kotlin and Java).
 - 🌱 I’m currently learning Java for Android.
 - 💞️ I’m looking to collaborate on any interesting project.
